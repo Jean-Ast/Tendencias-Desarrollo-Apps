@@ -1,0 +1,60 @@
+using System;
+using System.IO;
+
+namespace snake_case
+{
+    class Program
+    {
+        /// <summary>
+        /// Create a program that convert any word, phrase, sentence or file in Snake Case
+        /// </summary>
+        /// <param name="args"></param>
+        static void Main(string[] args)
+        {
+            int option = 0;
+            bool isNumber=false;
+            Console.WriteLine("Snake Case by Jean Carlos Astacio Mejia - 1073416");
+            Console.WriteLine(Environment.NewLine);
+            Console.WriteLine("1. Convert a word, phrase or sentence");
+            Console.WriteLine("2. Convert a file");
+            Console.WriteLine();
+            while (!isNumber)
+            {
+                Console.Write("Enter your option:");
+                isNumber = int.TryParse(Console.ReadLine(), out option);
+                if (!isNumber)
+                {
+                    Console.WriteLine("Option Known! Try again" + Environment.NewLine);
+                }
+            }
+            switch (option)
+            {
+                case 1:
+                    Console.Clear();
+                    Console.WriteLine("--------------------------------------------------");
+                    Console.Write("Enter the word you want convert: ");
+                    string w = Console.ReadLine();
+                    string wReplace = w.Replace(' ', '_');
+                    Console.WriteLine($"The word written in Snake Case is: {wReplace}");
+                    break;
+                case 2:
+                    Console.Clear();
+                    Console.WriteLine("--------------------------------------------------");
+                    string file = File.ReadAllText("C:\\JeanAM\\Archivos\\INTEC\\Trim Nom - Ener 2019\\Tendencias\\TareaNo2\\PowerBI.txt");
+                    string[] fileReplace = file.Split(',');
+                    for (int i = 0; i < fileReplace.Length; i++)
+                    {
+                        string fReplace = fileReplace[i].Replace(' ', '_');
+                        Console.WriteLine("The file open in Snake Case is: ");
+                        Console.WriteLine(Environment.NewLine);
+                        Console.WriteLine(fReplace);
+                    }
+                    break;
+                default:
+                    Console.WriteLine("Option known!");
+                    break;
+            }
+            Console.ReadKey();
+        }
+    }
+}
