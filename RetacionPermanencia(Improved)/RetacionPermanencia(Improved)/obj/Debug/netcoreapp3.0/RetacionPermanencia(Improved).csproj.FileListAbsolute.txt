@@ -1,0 +1,11 @@
+C:\JeanAM\Archivos\INTEC\Trim Nom - Ener 2019\Tendencias\RetacionPermanencia(Improved)\RetacionPermanencia(Improved)\obj\Debug\netcoreapp3.0\RetacionPermanencia(Improved).csprojAssemblyReference.cache
+C:\JeanAM\Archivos\INTEC\Trim Nom - Ener 2019\Tendencias\RetacionPermanencia(Improved)\RetacionPermanencia(Improved)\obj\Debug\netcoreapp3.0\RetacionPermanencia(Improved).AssemblyInfoInputs.cache
+C:\JeanAM\Archivos\INTEC\Trim Nom - Ener 2019\Tendencias\RetacionPermanencia(Improved)\RetacionPermanencia(Improved)\obj\Debug\netcoreapp3.0\RetacionPermanencia(Improved).AssemblyInfo.cs
+C:\JeanAM\Archivos\INTEC\Trim Nom - Ener 2019\Tendencias\RetacionPermanencia(Improved)\RetacionPermanencia(Improved)\bin\Debug\netcoreapp3.0\RetacionPermanencia(Improved).exe
+C:\JeanAM\Archivos\INTEC\Trim Nom - Ener 2019\Tendencias\RetacionPermanencia(Improved)\RetacionPermanencia(Improved)\bin\Debug\netcoreapp3.0\RetacionPermanencia(Improved).deps.json
+C:\JeanAM\Archivos\INTEC\Trim Nom - Ener 2019\Tendencias\RetacionPermanencia(Improved)\RetacionPermanencia(Improved)\bin\Debug\netcoreapp3.0\RetacionPermanencia(Improved).runtimeconfig.json
+C:\JeanAM\Archivos\INTEC\Trim Nom - Ener 2019\Tendencias\RetacionPermanencia(Improved)\RetacionPermanencia(Improved)\bin\Debug\netcoreapp3.0\RetacionPermanencia(Improved).runtimeconfig.dev.json
+C:\JeanAM\Archivos\INTEC\Trim Nom - Ener 2019\Tendencias\RetacionPermanencia(Improved)\RetacionPermanencia(Improved)\bin\Debug\netcoreapp3.0\RetacionPermanencia(Improved).dll
+C:\JeanAM\Archivos\INTEC\Trim Nom - Ener 2019\Tendencias\RetacionPermanencia(Improved)\RetacionPermanencia(Improved)\bin\Debug\netcoreapp3.0\RetacionPermanencia(Improved).pdb
+C:\JeanAM\Archivos\INTEC\Trim Nom - Ener 2019\Tendencias\RetacionPermanencia(Improved)\RetacionPermanencia(Improved)\obj\Debug\netcoreapp3.0\RetacionPermanencia(Improved).dll
+C:\JeanAM\Archivos\INTEC\Trim Nom - Ener 2019\Tendencias\RetacionPermanencia(Improved)\RetacionPermanencia(Improved)\obj\Debug\netcoreapp3.0\RetacionPermanencia(Improved).pdb

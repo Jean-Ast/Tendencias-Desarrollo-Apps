@@ -1,0 +1,11 @@
+c:\JeanAM\Archivos\INTEC\Trim Nom - Ener 2019\Tendencias\RetacionPermanencia(Improved)\Prueba2\bin\Debug\netcoreapp3.0\Prueba2.exe
+C:\JeanAM\Archivos\INTEC\Trim Nom - Ener 2019\Tendencias\RetacionPermanencia(Improved)\Prueba2\bin\Debug\netcoreapp3.0\Prueba2.deps.json
+C:\JeanAM\Archivos\INTEC\Trim Nom - Ener 2019\Tendencias\RetacionPermanencia(Improved)\Prueba2\bin\Debug\netcoreapp3.0\Prueba2.runtimeconfig.json
+C:\JeanAM\Archivos\INTEC\Trim Nom - Ener 2019\Tendencias\RetacionPermanencia(Improved)\Prueba2\bin\Debug\netcoreapp3.0\Prueba2.runtimeconfig.dev.json
+c:\JeanAM\Archivos\INTEC\Trim Nom - Ener 2019\Tendencias\RetacionPermanencia(Improved)\Prueba2\bin\Debug\netcoreapp3.0\Prueba2.dll
+c:\JeanAM\Archivos\INTEC\Trim Nom - Ener 2019\Tendencias\RetacionPermanencia(Improved)\Prueba2\bin\Debug\netcoreapp3.0\Prueba2.pdb
+c:\JeanAM\Archivos\INTEC\Trim Nom - Ener 2019\Tendencias\RetacionPermanencia(Improved)\Prueba2\obj\Debug\netcoreapp3.0\Prueba2.csprojAssemblyReference.cache
+c:\JeanAM\Archivos\INTEC\Trim Nom - Ener 2019\Tendencias\RetacionPermanencia(Improved)\Prueba2\obj\Debug\netcoreapp3.0\Prueba2.AssemblyInfoInputs.cache
+c:\JeanAM\Archivos\INTEC\Trim Nom - Ener 2019\Tendencias\RetacionPermanencia(Improved)\Prueba2\obj\Debug\netcoreapp3.0\Prueba2.AssemblyInfo.cs
+c:\JeanAM\Archivos\INTEC\Trim Nom - Ener 2019\Tendencias\RetacionPermanencia(Improved)\Prueba2\obj\Debug\netcoreapp3.0\Prueba2.dll
+c:\JeanAM\Archivos\INTEC\Trim Nom - Ener 2019\Tendencias\RetacionPermanencia(Improved)\Prueba2\obj\Debug\netcoreapp3.0\Prueba2.pdb

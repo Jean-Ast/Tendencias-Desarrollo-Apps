@@ -1,0 +1,13 @@
+1,Jean Carlos Astacio,Ingreso,2018-110-05
+2,Bruce Lee,Ingreso,2019-07-31
+3,Kevin De Bruyne,Ingreso,2018-03-25
+4,Pep Guardiola,Ingreso,2019-02-12
+5,Toni Kroos,Ingreso,2019-02-01
+6,Xavi Hernandez,Ingreso,2018-06-13
+7,Lionel Messi,Ingreso,2000-03-09
+8,Rafael Nadal,Ingreso,1998-11-04
+9,Roger Federer,Ingreso,2010-01-23
+1,Cristiano Ronaldo,Ingreso,2014-12-01
+2,Bruce Lee,Ingreso,2019-07-31
+3,Kevin De Bruyne,Ingreso,2018-03-25
+4,Pep Guardiola,Ingreso,2019-02-12
